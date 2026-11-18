@@ -1,0 +1,18 @@
+# Unpublished collaborator data and everything derived from it (never commit)
+data/
+results/
+figs/
+*.rds
+*.RData
+*.rda
+*.tsv
+*.csv
+# R / editor noise
+.Rhistory
+.Rproj.user/
+.env
+# Windows download/DLP side-files
+*:Zone.Identifier
+*:sec.endpointdlp
+# Machine paths + dataset/sample names (copy from R/config_example.R)
+R/config_local.R
